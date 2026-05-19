@@ -32,7 +32,7 @@ Loyihani o'z kompyuteringizda ishga tushirish uchun quyidagi bosqichlarni bajari
 
 1. Repozitoriyni yuklab oling yoki klon qiling:
 ```bash
-git clone https://github.com/USERNAME/rang-palitrasi.git
+git clone https://github.com/sanjarbek404/Palitra-Pro.git
 ```
 
 2. Loyiha papkasiga o'ting:
