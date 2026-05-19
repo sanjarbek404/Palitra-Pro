@@ -6,7 +6,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 Zamonaviy, tezkor va ko'p funksiyali rang palitrasi generatori. Dasturchilar va dizaynerlar uchun mukammal loyihalashtirilgan yechim.
-
+live  preview:  https://sanjarbek404.github.io/Palitra-Pro/
 ## ✨ Xususiyatlar (Features)
 
 - **Har xil generatsiya rejimlari**: Tasodifiy (Random), Monochromatic, Analogous, Triadic, Tetradic.
