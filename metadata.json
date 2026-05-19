@@ -1,0 +1,6 @@
+{
+  "name": "Rang Palitrasi",
+  "description": "Zamonaviy, ko'p funksiyali rang palitrasi generatori. GitHub Pages uchun moslashtirilgan.",
+  "requestFramePermissions": ["clipboard-write"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
